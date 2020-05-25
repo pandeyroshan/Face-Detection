@@ -1,5 +1,5 @@
 # Face Detection - OpenCV
-Code for face detection using OpenCV in Python.
+[x] Code for face detection using OpenCV in Python.
 
 ## How to use ??
 * git clone https://github.com/pandeyroshan/Face-Detection.git
